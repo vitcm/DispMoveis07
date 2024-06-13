@@ -177,7 +177,7 @@ public class GameActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        }, 30000);
+        }, 120000);
     }
 
     private void saveScore(int score) {
